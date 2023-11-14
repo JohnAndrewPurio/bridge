@@ -14,6 +14,8 @@ The Bridge pattern allows changing or even creating new classes without touching
 cargo run --bin bridge
 ```
 
+## Output
+
 ```
 Tests with basic remote.
 Remote power toggle
