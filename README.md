@@ -55,3 +55,6 @@ Remote: mute
 | Current channel is 1
 --------------------------------
 ```
+
+## Reference
+This example is a full replication of [this example](https://github.com/fadeevab/design-patterns-rust/tree/main/structural/bridge)
